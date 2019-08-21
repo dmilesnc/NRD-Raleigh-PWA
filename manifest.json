@@ -1,0 +1,36 @@
+{
+    "name": "Dan Miles' PWA",
+    "short_name": "Dan Miles' PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/icons/icon128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/icons/icon144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/img/icons/icon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/img/icons/icon192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icons/icon96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        }
+    ]
+}
